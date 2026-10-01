@@ -1,0 +1,29 @@
+{
+  "name": "Salem Library Staff",
+  "short_name": "Salem Library",
+  "description": "District Library Office — staff attendance and daily data app for Salem District public libraries.",
+  "id": "libpass",
+  "lang": "en",
+  "dir": "ltr",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5eede",
+  "theme_color": "#0f766e",
+  "scope": "/macros/s/",
+  "start_url": "/macros/s/AKfycbwti9MuiiUQ-TGMNBC4rhYkWBBbUkNIUXshCxr3JTHTuX3A5ClkulyQLFBRg5nNZFjTqg/exec",
+  "categories": ["events"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
